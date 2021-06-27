@@ -1,0 +1,22 @@
+{
+        "name": "lgp-mesmerist",
+        "title": "Legendary Mesmerist",
+        "description": "A basic implementation of Legendary Games' Mesmerist for use in PF2e",
+        "author": "Qonnors",
+        "version": "0.0.1",
+        "minimumCoreVersion": "0.8.7",
+        "compatibleCoreVersion":"0.8.8",
+	"packs": [
+	{
+		"name": "lgp-mesmerist",
+		"label": "Legendary Mesmerist",
+		"path": "packs/lgp-mesmerist.db",
+		"entity": "Item",
+		"system": "pf2e",
+		"module": "lgp-mesmerist"
+	}
+    ],
+	"url": "https://github.com/QonnorS/LGP-Mesmerist/",
+	"manifest": "https://raw.githubusercontent.com/QonnorS/LGP-Mesmerist/main/module.json",
+	"download": "https://github.com/QonnorS/LGP-Mesmerist/archive/0.0.1.zip"
+}
